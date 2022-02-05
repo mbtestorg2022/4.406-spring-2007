@@ -86,12 +86,57 @@ Grading
 
 Grades will be based on four components:
 
-| ACTIVITIES | PERCENTAGES |
-| --- | --- |
-| Attendance and active participation during class | 20% |
-| Midterm essay (1500 word essay = 300 double-spaced words/page x 5 pages) | 20% |
-| In-class essay (1 hour essay) | 20% |
-| Term project | 40% 
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+ACTIVITIES
+{{< thclose >}}
+{{< thopen >}}
+PERCENTAGES
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Attendance and active participation during class
+{{< tdclose >}}
+{{< tdopen >}}
+20%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Midterm essay (1500 word essay = 300 double-spaced words/page x 5 pages)
+{{< tdclose >}}
+{{< tdopen >}}
+20%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+In-class essay (1 hour essay)
+{{< tdclose >}}
+{{< tdopen >}}
+20%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Term project
+{{< tdclose >}}
+{{< tdopen >}}
+40%
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 The midterm essay will treat a subject that has been discussed during class. You will be asked to review the readings once again and pursue additional sources of information regarding that topic. Especially important will be to identify examples of the topic in the world.
 
