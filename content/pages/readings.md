@@ -69,7 +69,7 @@ Holling, C. S. "Understanding the Complexity of Economic, Ecological, and Social
 Adaptive capacity and resilience
 {{< tdclose >}}
 {{< tdopen >}}
-Folke, Carl, Steve Carpenter, Thomas Elmqvist, Lance Gunderson, C. S. Holling, Brian Walker, Jan Bengtsson, Fikret Berkes, Johan Colding, Kjell Danell, Malin Falkenmark, Line Gordon, Roger Kasperson, Nils Kautsky, Ann Kinzig, Simon Levin, Karl-Göran Mäler, Fredrik Moberg, Leif Ohlsson, Per Olsson, Elinor Ostrom, Walter Reid, Johan Rockström, Hubert Savenije, and Uno Svedin. "Resilience and Sustainable Development: Building Adaptive Capacity in a World of Transformations." _ICSU Series on Science for Sustainable Development_ 3. Scientific Background Paper commissioned by the Environmental Advisory Council of the Swedish Government in preparation for WSSD. Paris: ICSU, 2002. (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.629.3759&rep=rep1&type=pdf))
+Folke, Carl, Steve Carpenter, Thomas Elmqvist, Lance Gunderson, C. S. Holling, Brian Walker, Jan Bengtsson, Fikret Berkes, Johan Colding, Kjell Danell, Malin Falkenmark, Line Gordon, Roger Kasperson, Nils Kautsky, Ann Kinzig, Simon Levin, Karl-Göran Mäler, Fredrik Moberg, Leif Ohlsson, Per Olsson, Elinor Ostrom, Walter Reid, Johan Rockström, Hubert Savenije, and Uno Svedin. "Resilience and Sustainable Development: Building Adaptive Capacity in a World of Transformations." _ICSU Series on Science for Sustainable Development_ 3. Scientific Background Paper commissioned by the Environmental Advisory Council of the Swedish Government in preparation for WSSD. Paris: ICSU, 2002. ([PDF](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.629.3759&rep=rep1&type=pdf))
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -114,7 +114,7 @@ Global climate change
 
 [Intergovernmental Panel on Climate Change](https://www.ipcc.ch/report/ar4/wg1/). _Climate Change 2007 - The Physical Science Basis_. Cambridge, UK: Cambridge University Press, 2007.
 
-Ford Motor Company. Ford Report on the Business Impact of Climate Change. (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF](https://www.yumpu.com/en/document/view/17902814/ford-report-on-the-business-impact-of-climate-change))
+Ford Motor Company. Ford Report on the Business Impact of Climate Change. ([PDF](https://www.yumpu.com/en/document/view/17902814/ford-report-on-the-business-impact-of-climate-change))
 
 Ruth, Matthias, Brynhildur Davidsdottir, and Anthony Amato. "Climate Change Policies and Capital Vintage Effects: The Cases of US Pulp and Paper, Iron and Steel, and Ethylene." _Journal of Environmental Management_ 70, no. 3 (2004): 235-252.
 
